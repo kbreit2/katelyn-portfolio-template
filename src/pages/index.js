@@ -22,9 +22,21 @@ function HomepageHeader() {
         <br></br>
         <Link
           className="button button--secondary button--lg"
-          to="/blog/example-blog-post"
+          to="/blog/affordances-signifiers-i"
         >
-          Example Blog
+          Affordances & Signifiers I Reading
+        </Link>
+        <Link
+          className="button button--secondary button--lg"
+          to="/blog/affordances-signifiers-ii"
+        >
+          Affordances & Signifiers II Reading
+        </Link>
+        <Link
+          className="button button--secondary button--lg"
+          to="/blog/shneiderman-info-org"
+        >
+          Shneiderman Info Organization Reading
         </Link>
       </div>
     </header>

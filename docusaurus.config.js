@@ -3,7 +3,7 @@ import { themes as prismThemes } from "prism-react-renderer";
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "My UI Portfolio",
+  title: "Katelyn's Portfolio",
   tagline: "Showcasing My Work and Thoughts",
   favicon: "img/favicon.ico",
 
@@ -43,7 +43,7 @@ const config = {
     ({
       image: "img/docusaurus-social-card.jpg",
       navbar: {
-        title: "My UI Portfolio",
+        title: "Katelyn's UI Portfolio",
         logo: {
           alt: "My UI Portfolio Logo",
           src: "img/logo.svg",
