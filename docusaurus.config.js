@@ -54,7 +54,7 @@ const config = {
           { to: "/blog", label: "Blog", position: "left" },
           { to: "/contact", label: "Contact", position: "right" },
           {
-            href: "https://github.com/your-org/my-ui-portfolio",
+            href: "https://github.com/kbreit2/katelyn-portfolio-template",
             label: "GitHub",
             position: "right",
           },
@@ -80,7 +80,7 @@ const config = {
             items: [
               {
                 label: "GitHub",
-                href: "https://github.com/your-org/my-ui-portfolio",
+                href: "https://github.com/kbreit2/katelyn-portfolio-template",
               },
             ],
           },
