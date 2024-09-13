@@ -38,6 +38,12 @@ function HomepageHeader() {
         >
           Shneiderman Info Organization Reading
         </Link>
+        <Link
+          className="button button--secondary button--lg"
+          to="/blog/design-rules"
+        >
+          Design Rules Reading
+        </Link>
       </div>
     </header>
   );
