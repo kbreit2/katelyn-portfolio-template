@@ -1,7 +1,7 @@
 ---
 title: Design Rules
 slug: /design-rules
-date: 2024-09-6T16:58:00Z
+date: 2024-09-12T16:58:00Z
 tags: [approximateanalogy]
 ---
 
