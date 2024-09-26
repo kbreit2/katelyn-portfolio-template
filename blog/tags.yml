@@ -30,3 +30,8 @@ freeform:
   label: FreeForm
   permalink: /freeform
   description: Share something that captured you from the reading in any format, citing your sources.
+studies:
+  label: Studies
+  permalink: /studies
+  description: Experiments or observations about UIs.
+
