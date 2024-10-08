@@ -22,4 +22,4 @@ Breck, C. (2020, February 2). *Understanding our core values: An exercise for in
 
 ![An image displaying a flow of information organized into a hierarchy.](./images/navAndValuesImage.jpeg)
 
-I chose this image to represent the signal-to-noise ratio. The stacked stones may represent units of signal, while the singular stone represents noise. A lot of signal is best to balance out any noise. From [Adobe Stock](https://stock.adobe.com/search?k=hierarchy&search_type=usertyped&asset_id=404762100)
+A simple image to represent hierarchy. I liked this ones use of varying sized boxes to represent the information, and some information being reachable from multiple flows, as this feels more realistic to a UI's navigations. From [Adobe Stock](https://stock.adobe.com/search?k=hierarchy&search_type=usertyped&asset_id=404762100)
