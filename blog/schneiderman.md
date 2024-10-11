@@ -14,7 +14,7 @@ This section of reading focused on data visualization and organization, particul
 
 Source: “The Eyes Have It: A Task by Data Type Taxonomy for Information Visualizations” by Ben Shneiderman (1996)
 
-![A magnifying glass is help up to a page filled with blurry text. Even the words being magnified are distorted, with no real meaning being discerned from the mentions of "cosmic rays", "science", and "technology".](./images/AffordancesandSignifiersIIimage.jpg)
+![A magnifying glass is help up to a page filled with blurry text. Even the words being magnified are distorted, with no real meaning being discerned from the mentions of "cosmic rays", "science", and "technology".](./images/shneidermanimage.png)
 
 An image to represent the confusion and chaos that can arise from trying to navigate a UI where all the details are displayed without the user's demand. [Original Image](https://pxhere.com/en/photo/1259367#google_vignette )
 

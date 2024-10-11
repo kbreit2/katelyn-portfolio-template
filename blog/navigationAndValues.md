@@ -17,9 +17,10 @@ Hierarchy is also important in conversations of values. Colin Breck describes th
 
 Sources:
 Krug, S. (2014). *Don’t make me think, revisited: A common sense approach to web usability* (Third edition). New Riders. [Link](https://dl.acm.org/doi/10.5555/2663393)
+
 Breck, C. (2020, February 2). *Understanding our core values: An exercise for individuals and teams. [Link](https://blog.colinbreck.com/understanding-our-core-values-an-exercise-for-individuals-and-teams/)
 
 
 ![An image displaying a flow of information organized into a hierarchy.](./images/navAndValuesImage.jpeg)
 
-A simple image to represent hierarchy. I liked this ones use of varying sized boxes to represent the information, and some information being reachable from multiple flows, as this feels more realistic to a UI's navigations. From [Adobe Stock](https://stock.adobe.com/search?k=hierarchy&search_type=usertyped&asset_id=404762100)
+A simple image to represent hierarchy. I liked this one's use of varying sized boxes to represent the information, and some information being reachable from multiple flows, as this feels more realistic to a UI's navigations. From [Adobe Stock](https://stock.adobe.com/search?k=hierarchy&search_type=usertyped&asset_id=404762100)
