@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[4132],{1621:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/katelyn-portfolio-template/blog/page/2","page":2,"postsPerPage":10,"totalPages":2,"totalCount":14,"previousPage":"/katelyn-portfolio-template/blog","blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
