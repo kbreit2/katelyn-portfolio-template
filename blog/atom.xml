@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kbreit2.github.io/katelyn-portfolio-template/blog</id>
-    <title>Katelyn's Portfolio Blog</title>
-    <updated>2024-11-01T17:58:00.000Z</updated>
+    <title>Katelyn's UI Portfolio Blog</title>
+    <updated>2024-11-15T16:58:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://kbreit2.github.io/katelyn-portfolio-template/blog"/>
-    <subtitle>Katelyn's Portfolio Blog</subtitle>
+    <subtitle>Katelyn's UI Portfolio Blog</subtitle>
     <icon>https://kbreit2.github.io/katelyn-portfolio-template/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[The UIUN - An Exercise in Accessibility]]></title>
+        <id>https://kbreit2.github.io/katelyn-portfolio-template/blog/uiun</id>
+        <link href="https://kbreit2.github.io/katelyn-portfolio-template/blog/uiun"/>
+        <updated>2024-11-15T16:58:00.000Z</updated>
+        <summary type="html"><![CDATA[The UIUN, or User Interface United Nations, is an exercise intended to give learning designers some hands-on experience thinking about inclusive design--and reckoning with some of the reasons so many UI fail in this regard. For the exercise, each member of the group was assigned a certain population, and tasked with researching and presenting their accessibility needs. Afterwards, the group would negotiate and prioritize the design requirements derived from these needs, and allocate a set amount of resources on which could be implemented into our hypothetical web design.]]></summary>
+        <content type="html"><![CDATA[<p>The UIUN, or User Interface United Nations, is an exercise intended to give learning designers some hands-on experience thinking about inclusive design--and reckoning with some of the reasons so many UI fail in this regard. For the exercise, each member of the group was assigned a certain population, and tasked with researching and presenting their accessibility needs. Afterwards, the group would negotiate and prioritize the design requirements derived from these needs, and allocate a set amount of resources on which could be implemented into our hypothetical web design.</p>
+<p>My group was color vision deficiency (CVD), better known as color blindness.</p>
+<p>My initial findings were that:</p>
+<ul><li>CVD affects 4.5% of the population, or 300 million people globally.</li><li><p>There are many different types of CVD, which affect color perception differently.</p><ul><li>Most commonly, CVD affects the ability to discriminate between red and green.</li><li>Other types include tritanopia, which affects yellow vs pink, red vs purple, and blue vs green.</li><li>In rare cases, and associated with more significant visual impairments, someone may be completely unable to see in color.</li></ul></li></ul>
+<p>4.5% is a large number when we're talking about a group that could potentially be excluded by poor design decisions. But, with the varying types of CVD, it was clear not everyone with it has the same experience--and, by extension, a solution that worked for one person with CVD would be unlikely to work for the entire population. What we needed was:</p>
+<ul><li>Not to focus too much on the hues in use, since not everyone will perceive them the same way.</li><li>To focus on making design elements distinct, regardless of what hue they were perceived to be.</li><li>To give some additional cue if color is used to imply meaning.</li></ul>
+<p>These principles translate fairly immediately into design ideas:</p>
+<ul><li>Use additional, <em>meaningful</em> symbols, labels, etc. to accompany color cues.</li><li>Make sure the values of our colors contrast enough, so that regardless of the parent hue, they are clearly differentiated.</li></ul>
+<p>I once spent several minutes trying to piece together why my code, which had compiled and was working as expected, had a red parentheses, the color that usually indicates a syntax error. After coming up with nothing, I eventually discovered that what I had perceived as read was simply a magenta color that appeared red due to my low screen brightness--it was simply meant to color code a match with its closing parentheses. Sufficient contrast, or an additional symbol besides color, could have avoided the confusion entirely. I don't have CVD, and I could readily think of an instance where I would benefit from the same design changes that could help someone who does.</p>
+<p>This revealed a strong underlying theme of this exercise. Inclusive design ideas don't just help people with disabilities--they're often good considerations in general, helping a wide range of users beyond just the ones they were built for. For that reason, I was optimistic about the support I'd receive for my changes going into the negotiation process with my peers. I planned to emphasize color contrast within the values of the palette, since I expected non-color signifiers would not require much argument. I was prompt about prioritizing this aspect of the palette, and with a few additional requirements for colors or color combinations to favor or avoid being wrapped into the original (many of which came from our photosensitivity representative), I was able to secure both my major design suggestions here.</p>
+<p>Unlikely allies + hardest to convince.</p>
+<p>How it felt to prioritize some needs over others.</p>
+<p>Takeaways.</p>]]></content>
+        <category label="Studies" term="Studies"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Inclusive Design II]]></title>
         <id>https://kbreit2.github.io/katelyn-portfolio-template/blog/inclusive-design-ii</id>
