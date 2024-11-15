@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kbreit2.github.io/katelyn-portfolio-template/blog</id>
-    <title>Katelyn's UI Portfolio Blog</title>
+    <title>Katelyn's Portfolio Blog</title>
     <updated>2024-11-15T16:58:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://kbreit2.github.io/katelyn-portfolio-template/blog"/>
-    <subtitle>Katelyn's UI Portfolio Blog</subtitle>
+    <subtitle>Katelyn's Portfolio Blog</subtitle>
     <icon>https://kbreit2.github.io/katelyn-portfolio-template/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[The UIUN - An Exercise in Accessibility]]></title>

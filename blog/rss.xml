@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
-        <title>Katelyn's UI Portfolio Blog</title>
+        <title>Katelyn's Portfolio Blog</title>
         <link>https://kbreit2.github.io/katelyn-portfolio-template/blog</link>
-        <description>Katelyn's UI Portfolio Blog</description>
+        <description>Katelyn's Portfolio Blog</description>
         <lastBuildDate>Fri, 15 Nov 2024 16:58:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
