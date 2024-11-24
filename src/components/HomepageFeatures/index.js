@@ -1,35 +1,33 @@
 import clsx from 'clsx';
 import Heading from '@theme/Heading';
 import styles from './styles.module.css';
+import { useEffect, useState } from 'react';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
-    description: (
-      <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
-      </>
-    ),
-  },
-  {
-    title: 'Focus on What Matters',
+    title: 'My Design Journey',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        I value personality in design. And other such information.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Documenting My Progress',
+    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    description: (
+      <>
+        In addition to projects, this portfolio also includes many of the learning experiences that shaped my design philosophy.
+      </>
+    ),
+  },
+  {
+    title: 'A Secret Third Thing',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        I have range.
       </>
     ),
   },
@@ -50,15 +48,20 @@ function Feature({Svg, title, description}) {
 }
 
 export default function HomepageFeatures() {
+  const [currFeature, setCurrFeature] = useState(0);
+
+  useEffect (() => {
+    const switchInterval = setInterval(() => {
+      setCurrFeature(((((currFeature + 1) % FeatureList.length)) + FeatureList.length) % FeatureList.length);
+    }, 5000);
+    return () => clearInterval(switchInterval);
+  });
+
   return (
     <section className={styles.features}>
-      <div className="container">
-        <div className="row">
-          {FeatureList.map((props, idx) => (
-            <Feature key={idx} {...props} />
-          ))}
-        </div>
-      </div>
+        <button className={styles.navArrow} onClick={() => setCurrFeature(((((currFeature - 1) % FeatureList.length)) + FeatureList.length) % FeatureList.length)}>{"<"}</button>
+        <Feature Svg={FeatureList[currFeature].Svg} title={FeatureList[currFeature].title} description={FeatureList[currFeature].description}/>
+        <button className={styles.navArrow} onClick={() => setCurrFeature(((((currFeature + 1) % FeatureList.length)) + FeatureList.length) % FeatureList.length)}>{">"}</button>
     </section>
   );
 }

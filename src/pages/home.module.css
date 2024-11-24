@@ -1,0 +1,71 @@
+.background {
+    background: url("../../static/img/deskBackground.PNG") no-repeat center, url("../../static/img/backgroundTexture.svg") repeat center, radial-gradient(at 60% bottom, rgba(255, 255, 0, 0) 2%, var(--ifm-color-primary-lightest) 5%, var(--ifm-color-primary));
+    background-color: var(--ifm-color-primary);
+    min-height: 480px;
+    height: auto;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    align-self: flex-start;
+    justify-content: center;
+    flex-direction: column;
+    padding: 5% 0%;
+    gap: 24px;
+}
+
+
+@keyframes load-in {
+    0% { opacity: 50%; clip-path: inset(0% 100% 0% 0%); }
+    100% { opacity: 100%; clip-path: inset(0%); }
+}
+
+.title {
+    display: flex;
+    align-items: start;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    animation: load-in 1s forwards;
+}
+
+.circle {
+    background-image: url("../../static/img/circle.svg");
+    background-size: contain;
+    height: 760px;
+    width: 750px;
+    background-repeat: no-repeat;
+    animation: circ-load-in 0.5s ease-in-out forwards;
+}
+
+@keyframes circ-load-in {
+    from {
+        opacity: 50%;
+        translate: 50vh 0;
+    }
+
+    to {
+        opacity: 100%;
+        translate: 0 0;
+    }
+}
+
+.linkGroup {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    gap: 8px;
+}
+
+.homeLink {
+    color:  var(--ifm-color-primary-darkest);
+    font-family: "Inconsolata", monospace;
+    text-align: center;
+    align-self: center;
+    width: 16%;
+}
+
+.homeLink:hover {
+    color: var(--ifm-color-primary-lightest);
+    background-color: var(--ifm-color-primary-dark);
+    border-radius: 16px;
+}
