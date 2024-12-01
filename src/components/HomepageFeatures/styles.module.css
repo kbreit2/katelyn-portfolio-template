@@ -1,4 +1,5 @@
 .features {
+  color: var(--ifm-color-primary-darkest);
   display: flex;
   align-items: flex-end;
   justify-content: center;

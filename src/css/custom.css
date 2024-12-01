@@ -38,6 +38,10 @@ h2 {
   font-family: monospace;
 }
 
+h3 {
+  font-family: monospace;
+}
+
 p {
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
@@ -90,4 +94,13 @@ aside {
   background-color: var(--ifm-background-surface-color);
   padding: 5%;
   border-radius: 8px;
+}
+
+.table-of-contents {
+  background-color: var(--ifm-background-surface-color);
+  border-radius: 8px;
+}
+
+.image-box {
+  align-items: center;
 }
