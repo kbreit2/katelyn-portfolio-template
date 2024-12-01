@@ -1,11 +1,30 @@
 .features {
   display: flex;
-  align-items: center;
+  align-items: flex-end;
+  justify-content: center;
   padding: 2rem 0;
   width: 100%;
+  min-height: 400px;
+  max-height: 400px;
 }
 
 .featureSvg {
-  height: 200px;
-  width: 200px;
+  height: 300px;
+  width: 300px;
+  margin-top: 2%;
+}
+
+.navArrow {
+  font-size: xx-large;
+  font-family: monospace;
+  color: var(--ifm-color-primary-darker);
+  background: none;
+  border: none;
+}
+
+.navArrow:hover {
+  color: var(--ifm-color-primary-lightest);
+  background-color: var(--ifm-color-primary-dark);
+  border-radius: 16px;
+  text-decoration: none;
 }

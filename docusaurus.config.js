@@ -3,7 +3,7 @@ import { themes as prismThemes } from "prism-react-renderer";
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Katelyn's Portfolio",
+  title: "Katelyn's UI Portfolio",
   tagline: "Showcasing My Work and Thoughts",
   favicon: "img/favicon.ico",
 
@@ -85,13 +85,14 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My UI Portfolio. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Katelyn's UI Portfolio. Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
       },
     }),
+    
 };
 
 export default config;
