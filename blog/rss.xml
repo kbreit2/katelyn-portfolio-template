@@ -4,10 +4,25 @@
         <title>Katelyn's UI Portfolio Blog</title>
         <link>https://kbreit2.github.io/katelyn-portfolio-template/blog</link>
         <description>Katelyn's UI Portfolio Blog</description>
-        <lastBuildDate>Fri, 15 Nov 2024 16:58:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Dec 2024 16:58:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Design Interviews]]></title>
+            <link>https://kbreit2.github.io/katelyn-portfolio-template/blog/design-interviews</link>
+            <guid>https://kbreit2.github.io/katelyn-portfolio-template/blog/design-interviews</guid>
+            <pubDate>Fri, 06 Dec 2024 16:58:00 GMT</pubDate>
+            <description><![CDATA[Videos from Ricardo Hernandez Perez, CareerFoundry, and DesignWithArash]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="videos-from-ricardo-hernandez-perez-careerfoundry-and-designwitharash">Videos from Ricardo Hernandez Perez, CareerFoundry, and DesignWithArash<a class="hash-link" aria-label="Direct link to Videos from Ricardo Hernandez Perez, CareerFoundry, and DesignWithArash" title="Direct link to Videos from Ricardo Hernandez Perez, CareerFoundry, and DesignWithArash" href="https://kbreit2.github.io/katelyn-portfolio-template/blog/design-interviews#videos-from-ricardo-hernandez-perez-careerfoundry-and-designwitharash">​</a></h2>
+<p>Interviews are a notoriously daunting process for many, especially those just starting out in an industry or any professional environment. To summarize the process in a single word, with all the preparation and knowledge that goes into a successful interview, is a difficult task. But in the context of a design interview, I believe perspective is the single most important concept to consider.</p>
+<p>After watching these three videos from people with experience in the design industry, and seeing their advice for interviewees, I was unsurprised by many of the common threads: being self-aware, articulate, concise, and simply prepared were clearly emphasized. But I was more surprised by the unspoken undertone of many of those principles: being able to present and expand your perspective. A successful interview should be able to tell the interviewer what kind of person you would be to work with. Being able to articulate how you think, your process, and challenges you've overcome is a good way to illustrate your adaptability, and how they could expect you to respond to similar situations in their work environment. Being self-reflective, and demonstrating that you've been able to progress and learn from your mistakes is also valued--many interviewees get too caught up in fear of presenting themself as capable of mistakes to convey this effectively. And illustrating that same curiosity, building your perspective of what your work experience would be like if you were hired, is not just good for your own understanding, but is often appreciated by interviewers who want to see your passion and thoughtfulness about the position; they want you to want the job, and that usually requires a deep understanding of what that job truly means.</p>
+<p>Videos:</p>
+<ul><li><a href="https://www.youtube.com/watch?v=j07li1MUIa4" target="_blank" rel="noopener noreferrer">Ricardo Hernandez Perez</a></li><li><a href="https://www.youtube.com/watch?v=vu3xcQm7cEo" target="_blank" rel="noopener noreferrer">CareerFoundry</a></li><li><a href="https://www.youtube.com/watch?v=ZtN3yHIWuRY" target="_blank" rel="noopener noreferrer">DesignWithArash</a></li></ul>
+<p><img decoding="async" loading="lazy" alt="An interviewer and interviewee sit across from each other. The image is cropped such that we can only see their arms and the desk. The interviewee is annotating a highlighted document during the interview, while the interviewee sits attentively with their hands folded." src="https://kbreit2.github.io/katelyn-portfolio-template/assets/images/designInterviewImage-f956a57c76792ee315019ffa5942fe23.jpeg" width="6000" height="3376" class="img_ev3q"></p>
+<p>Though design interviews may have their own procedures outside of this stereotypical interview setup, the core principle of presenting oneself and being able to have a productive conversation with the interviewer remains. From <a href="https://stock.adobe.com/search?k=interview&amp;search_type=usertyped&amp;asset_id=276831797" target="_blank" rel="noopener noreferrer">Adobe Stock</a></p>]]></content:encoded>
+            <category>WordJournal</category>
+        </item>
         <item>
             <title><![CDATA[The UIUN - An Exercise in Accessibility]]></title>
             <link>https://kbreit2.github.io/katelyn-portfolio-template/blog/uiun</link>
