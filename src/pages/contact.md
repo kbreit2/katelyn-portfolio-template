@@ -1,15 +1,12 @@
 ---
 title: Contact
-description: Get in touch with us
+description: Get in touch with me
 permalink: /contact
 ---
 
 # Contact Us
 
-I would love to hear from you!
+<h1>> You can also find me on the following:</h1>
 
-- **Email**: [contact@yourdomain.com](mailto:contact@yourdomain.com)
-- **LinkedIn**: [linkedin.com/linkedin-website](https://linkedin.com/linkedin-website)
-- **GitHub**: [Your GitHub Profile](https://github.com/your-github-username)
-
-Feel free to drop a message or connect with me on social media.
+- **Email**: [kebreit@gmail.com](mailto:kebreit@gmail.com)
+- **GitHub**: [My Github](https://github.com/kbreit2)
