@@ -15,7 +15,7 @@ Here are some of the projects I've worked on:
 </tc>
 <tc>
 <h1>> Portfolio Design</h1> 
-<p>The design journey for the portfolio you're viewing now. <a>Link TBD</a></p>
+<p>The design journey for the portfolio you're viewing now. Full writeup coming soon!</p>
 ![The website logo, a K with its straight line substituted with a pencil.](../../static/img/logo.svg)
 <img />
 </tc>

@@ -13,7 +13,7 @@ function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
   return (
     <header>
-      <div className={styles.background} title="A Desk with a Pencil on its Lefthand Side">
+      <div className={styles.background} title="A Desk with a Pencil on its Righthand Side">
         <h1 className={styles.title}>
           {"> Welcome to my portfolio!"}
         </h1>

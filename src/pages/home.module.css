@@ -1,5 +1,5 @@
 .background {
-    background: url("../../static/img/deskBackground.PNG") no-repeat center, url("../../static/img/backgroundTexture.svg") repeat center, radial-gradient(at 60% bottom, rgba(255, 255, 0, 0) 2%, var(--ifm-color-primary-lightest) 5%, var(--ifm-color-primary));
+    background: url("../../static/img/deskBackground.svg") no-repeat bottom, url("../../static/img/backgroundTexture.svg") repeat center, radial-gradient(at 60% bottom, rgba(255, 255, 0, 0) 2%, var(--ifm-color-primary-lightest) 5%, var(--ifm-color-primary-dark));
     background-color: var(--ifm-color-primary);
     min-height: 480px;
     height: auto;
@@ -7,10 +7,10 @@
     display: flex;
     align-items: center;
     align-self: flex-start;
-    justify-content: center;
+    justify-content: space-between;
     flex-direction: column;
     padding: 5% 0%;
-    gap: 24px;
+    gap: 2%;
 }
 
 

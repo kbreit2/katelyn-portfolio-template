@@ -14,19 +14,22 @@
   --ifm-color-primary-lighter: #f98659;
   --ifm-color-primary-lightest: #fdcfb2;
   --ifm-code-font-size: 95%;
+  --ifm-background-surface-color: #f6f4cb;
+  --ifm-color-emphasis-300: #ccb5ac;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme='dark'] {
-  --ifm-color-primary: #df3f00;
-  --ifm-color-primary-dark: #c63901;
+  --ifm-color-primary: #f16731;
+  --ifm-color-primary-dark: #df3f00;
   --ifm-color-primary-darker: #af3504;
   --ifm-color-primary-darkest: #6b2002;
   --ifm-color-primary-light: #fea36b;
   --ifm-color-primary-lighter: #ffc099;
   --ifm-color-primary-lightest: #fdcfb2;
+  --ifm-font-color-base: #F6E4CB;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
 
@@ -104,3 +107,22 @@ aside {
 .image-box {
   align-items: center;
 }
+
+.margin-bottom--xl {
+  background-color: var(--ifm-background-surface-color);
+  border-radius: 8px;
+  padding: 5%;
+}
+
+.about-me {
+  display: flex;
+  align-items: center;
+  gap: 8%;
+}
+
+.col--6 {
+  background-color: var(--ifm-background-surface-color);
+  border-radius: 8px;
+  padding: 5%;
+}
+

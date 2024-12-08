@@ -5,29 +5,29 @@ import { useEffect, useState } from 'react';
 
 const FeatureList = [
   {
-    title: 'My Design Journey',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Explore My Portfolio',
+    Svg: require('@site/static/img/computer.svg').default,
     description: (
       <>
-        I value personality in design. And other such information.
+        This portfolio highlights projects at many stages, including completed prototypes.
       </>
     ),
   },
   {
-    title: 'Documenting My Progress',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Celebrating My Progress',
+    Svg: require('@site/static/img/books.svg').default,
     description: (
       <>
-        In addition to projects, this portfolio also includes many of the learning experiences that shaped my design philosophy.
+        This portfolio includes many of the studies and other learning experiences that shaped my design philosophy.
       </>
     ),
   },
   {
-    title: 'A Secret Third Thing',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'Design Values',
+    Svg: require('@site/static/img/paper.svg').default,
     description: (
       <>
-        I have range.
+        I value personality in design and aim for expressive creations! I aim to capture this in all steps of my design process.
       </>
     ),
   },
