@@ -7,9 +7,9 @@ slug: /projects/scrawl
 
 This page details the design process for Scrawl, a UI design project centered on a social media for artists. It was created alongside Ealynn Hsu. For quick access to project resources, please see the following:
 
-- **Design System**: [Link](https://www.figma.com/design/bQ6iy1TsYJAkJRtRYxtTWr/scrawl?node-id=1-7&t=pGjro43KujStXEcw-1)
-- **Mockups**: [Link](https://www.figma.com/design/pDaIbX1vtbzajjhYeQxZoB/scrawl-2.0?node-id=0-1&t=3zchshMzA696PDFJ-1)
-- **Original Prototypes**: [Link](https://www.figma.com/design/doacDGNSpOWhEmGeNBL5Ro/scrawl-3.0?node-id=0-1&t=54vGGaLbBslWIwTa-1)
+- **Initial Design System**: [Link](https://www.figma.com/design/bQ6iy1TsYJAkJRtRYxtTWr/scrawl?node-id=1-7&t=pGjro43KujStXEcw-1)
+- **Initial Mockups**: [Link](https://www.figma.com/design/pDaIbX1vtbzajjhYeQxZoB/scrawl-2.0?node-id=0-1&t=3zchshMzA696PDFJ-1)
+- **Initial Prototypes**: [Link](https://www.figma.com/design/doacDGNSpOWhEmGeNBL5Ro/scrawl-3.0?node-id=0-1&t=54vGGaLbBslWIwTa-1)
 - **Revised Prototypes**: [Link](https://www.figma.com/design/sife6gfHFYzVPmL5Oye0yW/scrawl-5.0?node-id=0-1&t=qtqRFAbtbPGo5Hsc-1)
 
 
@@ -64,8 +64,13 @@ I’ve showcased many of the sketches and original prototypes from the project, 
 
 We put a lot of thought into the colors of our design. For a platform for artists, we wanted something colorful and expressive, but not excessive. In fact, one of the recurrent complaints we’d hear, both between each other and with some of the friends we talked to during the discovery phase, was how dull the minimalistic direction of many conceptually similar platforms was. Our specific values for the project, creativity and harmony, were especially informative to our color choices. We briefly considered orange, as its energetic qualities and creative associations felt apt for a social platform for artists. But, we ultimately landed on purple as our core color. This retained the creative associations, but had a calmer and more elegant feeling than orange. I also valued the symbolic use of purple, as it is a largely man-made conception of color–-it felt like the perfect fit for our app that hoped to be a celebration of human creativity. Ealynn contributed our logo, which I adore as a shorthand to communicate what our platform is all about. The pencil drawing conveys we’re for artists, and the curly font for Scrawl holds a lot of personality.
 
-Though we had a strong sense of what we wanted from the design, the process was far from over. This [initial prototype](https://www.figma.com/design/doacDGNSpOWhEmGeNBL5Ro/scrawl-3.0?node-id=0-1&t=54vGGaLbBslWIwTa-1) continued to evolve as we gained additional insights from user testing, helping us expand and refine what we’d created. Pages can be navigated between by clicking buttons, as they would on a real implementation of the site. But, functionality unrelated to the main workflows is usually not implemented and only exists on a visual level.
+Though we had a strong sense of what we wanted from the design, the process was far from over. This initial prototype continued to evolve as we gained additional insights from user testing, helping us expand and refine what we’d created. Pages can be navigated between by clicking buttons, as they would on a real implementation of the site. But, functionality unrelated to the main workflows is usually not implemented and only exists on a visual level.
 
+<table>
+<iframe title="Initial Scrawl Prototypes" className="figma" src="https://embed.figma.com/proto/doacDGNSpOWhEmGeNBL5Ro/scrawl-3.0?node-id=2006-670&node-type=canvas&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2006%3A670&embed-host=share" allowfullscreen></iframe>
+</table>
+
+<br />
 
 ### Part 4: "The Shading"
 Design, like any art, is a process. Though we’d laid a good foundation, there were still many steps to go before the project was complete. To begin, we needed to gain insights from potential users of the site to see if our vision matched their actual experience. Our user testing protocol was to give users a walkthrough for the site, to gain their initial read on the home page, and to ask them to narrate their way through the tasks we assigned for them to complete–the same tasks described by the user stories. 
@@ -82,7 +87,10 @@ Our testers had a mostly smooth experience, and the issues they described and fe
 ![The main feed for a social media site. The header has been edited from the initially described one to include a search bar. Its dropdown icon was replaced with three horizontal bars stacked together, and the plus icon is now inside of a circle. The rest of the page has a "main feed" of art. A breadcrumb trail allows for navigation backward.](../../static/img/mainFeedFigma.png)
 </table>
 
-All in all, after our colleague and user testing, our prototype turned out [like this](https://www.figma.com/design/sife6gfHFYzVPmL5Oye0yW/scrawl-5.0?node-id=0-1&t=qtqRFAbtbPGo5Hsc-1).
+All in all, after our colleague and user testing, our prototype turned out like this:
+<table>
+<iframe title="Revised Scrawl Prototypes" className="figma" src="https://embed.figma.com/proto/sife6gfHFYzVPmL5Oye0yW/scrawl-5.0?node-id=2006-670&node-type=canvas&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2006%3A670&embed-host=share" allowfullscreen></iframe>
+</table>
 
 For our project’s guiding values of creativity and harmony, we put great emphasis on how our UI could communicate these principles. The colors, as previously discussed, were a major contributor to this, but far from the only one. We sought to suggest creativity in our UI through the featured art, different feed options (a main feed and an exploration feed, though the latter was not fully implemented), and use of tags to maximize visibility. 
 

@@ -11,6 +11,11 @@ The UIUN, or User Interface United Nations, is an exercise intended to give lear
 
 My group was color vision deficiency (CVD), better known as color blindness. 
 
+You can view the full presentation here:
+<table>
+<iframe title="UIUN Color Vision Deficiency Presentation" src="https://docs.google.com/presentation/d/e/2PACX-1vQ_6IVo7bonuABM50WZpxqvO0CMDc2XcWpeGLnNnFCHR8CXKieSt1bgRTjhfhcewHrY-3igWzkPsKLc/embed?start=false&loop=false&delayms=30000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</table>
+
 My initial findings were that:
 <ul>
 <li>CVD affects 4.5% of the population, or 300 million people globally.</li>
@@ -50,6 +55,15 @@ In conclusion, this exercise gave me a lot to think about, and many principles t
 <li>Inclusive design helps more people than just those the designer had in mind.</li>
 <li>Inclusive design is effortful, and without careful consideration, some important requirements may go overlooked.</li>
 <li>It's a lot simpler to dedicate resources to following inclusive design principles from the beginning, instead of trying to find the resources to restructure things later on.</li>
+</ul>
+
+Sources:
+<ul>
+<li><a>https://www.nei.nih.gov/learn-about-eye-health/eye-conditions-and-diseases/color-blindness/types-color-vision-deficiency</a></li>
+<li><a>https://www.desertvisioncenter.com/news/do-enchroma-glasses-work-to-treat-colorblindness/</a></li>
+<li><a>https://www.colourblindawareness.org/colour-blindness/</a></li>
+<li><a>https://www.boia.org/blog/what-is-color-blindness-accessibility</a></li>
+<li><a>https://www.sarpy.gov/659/Election-Commission</a></li>
 </ul>
 
 ![An image showing a row of wooden blocks. The last several spell out "bility", but the first few are tilted so that multiple faces are visible, spelling out either "usa" or "accesi". The word can be read as either "usability" or "accessibility".](../blog/images/uiunImage.jpeg)
