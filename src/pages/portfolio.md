@@ -3,7 +3,7 @@ title: Portfolio
 slug: /projects/portfolio
 ---
 
-# Portfolio
+# Portfolio Design Process
 
 This page details the design process for my portfolio.
 <br />
@@ -98,11 +98,13 @@ Fortunately, the Docusaurus template is already very usable. It has a very clean
 
 ## Evolution
 
-Even the design of this portfolio has evolved as I've learned more about design. Here's an early draft from when I was just starting to plan out its final appearance:
+Even the design of this portfolio has evolved as I've learned more about design. Here's the first draft of the home page:
 
-TODO: image
+<table>
+![A rough sketch of a webpage. It has an orange header and footer, a large orange circle and square on either side of the page to fit the major contents,and a transparent orange square pattern in the background.](../../static/img/portfolioSketch.PNG)
+</table>
 
-Some things have clearly carried over, like the square background and the orangeness of it all, but the current home page is a far cry from the final design. Between then and now, I learned a lot about the design process and had more experience iterating on designs. The flaws of the original became clear. There wasn't much evident structure or visual hierarchy to the shape containers--I never did have a clear plan of what I'd put into them--and the contrast issues of using orange would have been greatly exacerbated by the original design. It was more minimalistic perhaps, with limited colors compared to the final product, but that did very little for its effectiveness.
+Some things have clearly carried over, like the square background and the orangeness of it all, but the final page turned out very different. Between then and now, I learned a lot about the design process and had more experience iterating on designs. The flaws of the original became clear. There wasn't much evident structure or visual hierarchy to the shape containers--I never did have a clear plan of what I'd put into them--and the contrast issues of using orange would have been greatly exacerbated by the original design. It was more minimalistic perhaps, with limited colors compared to the final product, but that did very little for its effectiveness.
 
 The best diary of my learning is definitely the blog, though. Each entry required critical reflection that prompted me to apply my learning, rather than simply reciting it.
 <br />
