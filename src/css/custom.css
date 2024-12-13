@@ -59,6 +59,7 @@ table {
 tc {
   justify-content: start;
   width: 50%;
+  padding: 2%;
 }
 
 .resumeLink {
